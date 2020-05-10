@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Katalog Film"</string>
+    <string name="tab_movies">"Film"</string>
+    <string name="tab_tv_shows">"Acara TV"</string>
+    <string name="title_activity_main">"Katalog Film"</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="title">Judul</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="vote">Penilaian</string>
+    <string name="bahasa_asal">Bahasa Asal</string>
+    <string name="failure">Kesalahan</string>
+</resources>

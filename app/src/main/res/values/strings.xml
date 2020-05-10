@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tv_shows">TV Shows</string>
+    <string name="title_activity_main">Movie Catalogue</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="title">Title</string>
+    <string name="tanggal_rilis">Release Date</string>
+    <string name="vote">Vote</string>
+    <string name="bahasa_asal">Original Language</string>
+    <string name="failure">Failure</string>
+</resources>
